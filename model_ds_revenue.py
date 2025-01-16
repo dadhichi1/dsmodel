@@ -1,8 +1,8 @@
 import numpy as np
 import pandas as pd
 import random
-import matplotlib.pyplot as plt
 import streamlit as st
+import matplotlib.pyplot as plt
 
 # Streamlit app setup
 st.title("Options Decision Tool")
